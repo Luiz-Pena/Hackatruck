@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Perfil Insta
-//
-//  Created by Turma02-Backup on 06/02/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
